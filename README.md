@@ -1,4 +1,4 @@
-### Hi there 👋🌱
+### Hi there 👋 🌱
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SeanGaluzzi&show_icons=true)
 
 <!--
